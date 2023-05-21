@@ -5,18 +5,18 @@
  
  ## Feature
 
- *Create Products
- *Create Orders
- *Check Inventory for the given product before place an order
- *Send notification to customer when an order is placed (Because it is a sample project, It is just implemented, not applied the business logic.)
+ * Create Products
+ * Create Orders
+ * Check Inventory for the given product before place an order
+ * Send notification to customer when an order is placed (Because it is a sample project, It is just implemented, not applied the business logic.)
  
  ## Technologies
  
- *Spring Boot 2.7.8
- *Jdk 15+
- *Kafka
- *MongoDb
- *PostgreSql
+ * Spring Boot 2.7.8
+ * Jdk 15+
+ * Kafka
+ * MongoDb
+ * PostgreSql
  
  ## How to run the application using Docker
 
