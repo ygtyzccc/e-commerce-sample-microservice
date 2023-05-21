@@ -3,14 +3,14 @@
 ![E-Commercedrawio](https://github.com/ygtyzccc/e-commerce-sample-microservice/assets/78899194/816f465d-165a-4d6e-ab76-1882e568df09)
 
  
- ##Feature
+ ## Feature
 
  *Create Products
  *Create Orders
  *Check Inventory for the given product before place an order
  *Send notification to customer when an order is placed (Because it is a sample project, It is just implemented, not applied the business logic.)
  
- ##Technologies
+ ## Technologies
  
  *Spring Boot 2.7.8
  *Jdk 15+
