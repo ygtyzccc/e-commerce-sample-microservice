@@ -15,7 +15,6 @@
  * Spring Boot 2.7.8
  * Jdk 15+
  * Spring Cloud
- * Netflix Eureka
  * Apache Kafka
  * MongoDb
  * PostgreSql
