@@ -7,7 +7,7 @@
 
  * Create Products
  * Create Orders
- * Check Inventory for the given product before place an order
+ * Check Inventory for the given product before placing an order
  * Send notification to customer when an order is placed (Because it is a sample project, It is just implemented, not applied the business logic.)
  
  ## Technologies
